@@ -13,7 +13,7 @@ Let's Describe how to make the website -
 2. Download the images that you want to set in the background in the Website.
 3. Open Visula Studio Code Or Sublime Text.
 4. Make two Files 1st with name "index.html" & 2nd with name "style.css".
-5. Code the code which I provided in this repository.
+5. Copy & Paste the code which I provided in this repository.
 6. Save the Code and run the command in any of your Broswer in the System.
 
 If you have any query regarding this or any program, feel free to message me on Linkedin.
